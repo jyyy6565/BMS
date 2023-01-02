@@ -3,8 +3,6 @@ package com.cya.util.consts;
 
 /**
  * 定义常量
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 public final class Constants {
 

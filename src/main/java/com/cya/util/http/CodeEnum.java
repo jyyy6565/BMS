@@ -2,8 +2,6 @@ package com.cya.util.http;
 
 /**
  * @Description 响应状态码枚举类
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 public enum CodeEnum {
     /** 请求成功 */

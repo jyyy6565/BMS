@@ -5,8 +5,6 @@ import lombok.Data;
 
 /**
  * @Description 图书归还 ro 对象
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 @Data
 public class RetBookIn {

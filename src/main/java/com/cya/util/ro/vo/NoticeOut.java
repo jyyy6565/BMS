@@ -1,4 +1,4 @@
-package com.cya.util.vo;
+package com.cya.util.ro.vo;
 
 import com.cya.entity.Notice;
 import io.swagger.annotations.ApiModelProperty;
@@ -6,8 +6,6 @@ import lombok.Data;
 
 /**
  * @Description 用户vo类
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 @Data
 public class NoticeOut extends Notice {

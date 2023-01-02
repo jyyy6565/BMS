@@ -7,8 +7,6 @@ import java.io.Serializable;
 
 /**
  * @Description 返回对象
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 public class R implements Serializable{
 

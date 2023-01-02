@@ -2,8 +2,6 @@ package com.cya.util.consts;
 
 /**
  * @Description 数字类型 和 中文名称互转
- * @Date 2022/9/4 16:35
- * @Author by 公众号【IT学长】
  */
 public class ConvertUtil {
 
